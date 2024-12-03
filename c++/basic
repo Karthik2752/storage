@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+
+void solution(){
+  int a;
+  string s;
+  cin>>a;
+  cin.ignore();
+  cin>>s;
+  cout<<a<<" "<<s<<endl;
+  
+  
+}
