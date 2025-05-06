@@ -1,0 +1,14 @@
+1. Usage of AI-Tools(Hugging face models[EleutherAI/gpt-neo-1.3B])
+2. Implementing  a simple chatbot using the above model
+3.  Testing the chatbot with a few test cases
+
+
+Objective - Building a prototype for Crop_production
+1. Analyze
+    a. Demand
+    b. Investment
+    c. Profits
+    d. End-products
+    e. Challenges Occur and Excpectional solutions
+
+api="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"
